@@ -1,0 +1,7 @@
+{
+  "name": "varzea-sc",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
