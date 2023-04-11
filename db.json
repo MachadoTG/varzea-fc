@@ -1,0 +1,46 @@
+{
+  "time": [
+    {
+      "id": 1,
+      "nome": "SC VARZEA",
+      "responsavel": 1
+    }
+  ],
+  "membro": [
+    {
+      "id": 1,
+      "tipo_membro": 1,
+      "usuario": 1,
+      "time": 1
+    }
+  ],
+  "tipo_membro": [
+    {
+      "id": 1,
+      "desc": "jogador"
+    }
+  ],
+  "usuario": [
+    {
+      "id": 1,
+      "nome": "SomeOne",
+      "email": "someemail@gmail.com",
+      "telefone": 55123456789
+    },
+    {
+      "id": 2,
+      "nome": "Abacate",
+      "email": "abacate@gmail.com",
+      "telefone": 55123456789
+    },
+    {
+      "id": 3,
+      "nome": "Laranja",
+      "email": "laranja@gmail.com",
+      "telefone": 55123456789
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
